@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Sridhar Krishnan
+# Author: AYUSH ANAND
 
 PACKAGE="vlc"
 
